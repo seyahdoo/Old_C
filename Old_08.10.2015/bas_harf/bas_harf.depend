@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1427276140 source:c:\users\coupa\documents\c\bas_harf\main.c
+	<stdio.h>
+	<stdlib.h>
+

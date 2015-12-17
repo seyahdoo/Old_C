@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426171486 source:c:\users\coupa\documents\c\projectx\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

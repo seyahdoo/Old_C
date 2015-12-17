@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1445783236 source:c:\users\goglomen\onedrive\my works\coding\c\20.10.2015 amac_students_classes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

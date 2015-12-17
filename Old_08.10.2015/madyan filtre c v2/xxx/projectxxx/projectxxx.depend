@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1432504718 source:c:\users\ytu\desktop\xxx\projectxxx\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1432509380 source:c:\users\goglomen\dropbox\my works\coding\c\madyan filtre c v2\xxx\projectxxx\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1432678540 source:c:\users\goglomen\dropbox\my works\coding\c\ship_finder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

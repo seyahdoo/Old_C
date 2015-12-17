@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1427273199 source:c:\users\coupa\documents\c\kapi\main.c
+	<stdio.h>
+	<stdlib.h>
+

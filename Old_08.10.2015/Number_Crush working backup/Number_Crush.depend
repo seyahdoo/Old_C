@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1433779957 source:c:\users\goglomen\dropbox\my works\coding\c\number_crush\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
